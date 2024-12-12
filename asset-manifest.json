@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/japanese-internment/static/css/main.f2584935.css",
+    "main.js": "/japanese-internment/static/js/main.b33a8c31.js",
+    "static/js/488.26f77390.chunk.js": "/japanese-internment/static/js/488.26f77390.chunk.js",
+    "static/media/JapB1.jpg": "/japanese-internment/static/media/JapB1.cdaf81ef19681a7dbbc2.jpg",
+    "static/media/JapB3.jpg": "/japanese-internment/static/media/JapB3.433244a9e48b05edf3d5.jpg",
+    "static/media/JapB2.jpg": "/japanese-internment/static/media/JapB2.4086f67334e33d311b8b.jpg",
+    "static/media/JapB8.jpg": "/japanese-internment/static/media/JapB8.e90fb43e552e7e257048.jpg",
+    "index.html": "/japanese-internment/index.html",
+    "main.f2584935.css.map": "/japanese-internment/static/css/main.f2584935.css.map",
+    "main.b33a8c31.js.map": "/japanese-internment/static/js/main.b33a8c31.js.map",
+    "488.26f77390.chunk.js.map": "/japanese-internment/static/js/488.26f77390.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2584935.css",
+    "static/js/main.b33a8c31.js"
+  ]
+}
