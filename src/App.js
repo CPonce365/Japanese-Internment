@@ -4,7 +4,7 @@ import PearlHarbor from "./pages/PearlHarbor";
 import Distinguish from "./pages/Distinguish";
 import Camp from "./pages/Camp";
 import Error from "./pages/Error";
-<Router basename="/JapaneseInternment.github.io"></Router>
+<Router basename="/Japanese-Internment.github.io"></Router>
 
 
 function App() {
