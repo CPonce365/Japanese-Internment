@@ -1,7 +1,7 @@
 {
   "name": "japanese-internment",
   "version": "0.1.0",
-  "homepage": "https://CPonce365.github.io/japanese-internment/",
+  "homepage": "https://CPonce365.github.io/Japanese-Internment/",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
