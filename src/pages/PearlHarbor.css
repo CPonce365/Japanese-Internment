@@ -1,0 +1,62 @@
+.mainp{
+   min-height: 100vh; 
+    background-image: url('../images/JapB3.jpg');
+    background-size:cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+
+.pearlimg{
+    height: 350px;
+    width: 500px;
+    padding-top: 20px;
+    padding-left: 10px;
+    border-radius: 25%;
+}
+.img2{
+    height: 500px;
+    width: 900px;
+    padding-top: 50px;
+    padding-left: 10px;
+    margin-left: 175px;
+   
+}
+.img3{
+    height: 500px;
+    width: 900px;
+    padding-top: 50px;
+    padding-left: 10px;
+    margin-left: 175px;
+}
+
+h1{
+    text-align: center;
+    font-weight: 1000;
+    padding-top: 80px;
+    font-size: 32px;
+}
+
+.coloumn{
+    float: right;
+    width: 60%;
+    padding: 2%;
+    font-size: 18px;
+    font-weight: 550;
+    color: black;
+}
+
+.description{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 550;
+    color: black;
+}
+
+.description2{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 550;
+    color: black;
+}

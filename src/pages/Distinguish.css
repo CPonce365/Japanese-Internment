@@ -1,0 +1,44 @@
+.maind{
+    height: 100vh; /* Full viewport height */
+    background-image: url('../images/JapB2.jpg');
+    background-size:cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    overflow:auto;
+}
+
+.disimg{
+    height: 600px;
+    width: 400px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.img2{
+    height: 500px;
+    width: 900px;
+    padding-top: 50px;
+    padding-left: 10px;
+    margin-left: 175px;
+    border-radius: 50px;
+}
+
+.column{
+    float: right;
+    width: 68%;
+    padding: 2%;
+    font-size: 24px;
+    font-weight: 550;
+    color: black;
+}
+
+.description{
+    padding-top: 10px;
+    width: 80%;
+    text-align: center;
+    padding-left: 200px;
+    font-size: 18px;
+    font-weight: 550;
+    color: black;
+}
+

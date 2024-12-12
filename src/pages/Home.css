@@ -1,0 +1,33 @@
+.mainh{
+    height: 100vh; /* Full viewport height */
+    background-image: url('../images/JapB8.jpg');
+    background-size:cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    overflow:auto;
+}
+
+h1 {
+    text-align: center;
+    color: #b3570b;
+}
+
+.Info{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 550;
+    color: black;
+    width: 85%;
+    padding-left: 200px;
+}
+
+.help{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 550;
+    color: black;
+    width: 85%;
+    padding-left: 200px;
+}
